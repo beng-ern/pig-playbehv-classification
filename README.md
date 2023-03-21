@@ -1,4 +1,4 @@
-# pig-playbehv-classification
+# Playing Behavior Classification of Group-Housed Pigs Using a Deep CNN-LSTM Network
 This is the repository for the code developed for my master's degree in April 2022.
 
 It contains code/packages for:
